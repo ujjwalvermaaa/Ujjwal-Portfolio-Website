@@ -1,6 +1,5 @@
 import { useState, useCallback, useMemo } from "react";
 import "./styles/Work.css";
-import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward, MdArrowOutward } from "react-icons/md";
 
 type Project = {
